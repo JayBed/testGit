@@ -1,4 +1,4 @@
-
+//Ajout de commentaires test
 
 /*
  * This is the function to call to obtain the Newton approximation.
