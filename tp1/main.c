@@ -5,7 +5,7 @@
 #include "newton.h"
 
 /*
- * argc : Number of parameters passed to the program. The value is almost always one, for the program name.
+ ************* argc : Number of parameters passed to the program. The value is almost always one, for the program name.
  * argv : A list of char* strings. One a proper call, the first char* is the program name, the second char* is the value for which we want the root, and the third char* is the number of iteration we want for the Newton approximation of the root. 
  * return : Zero if the program worked allright, or the error code : 1 means not enought arguments were given. 2 means that the value to root is invalid. 3 means that the number of iterations is invalid.
  */
