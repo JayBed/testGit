@@ -5,18 +5,22 @@ all: newton
 
 # link the object files into the executable.
 # the -lm option is to tell the linker to include math libraries.
-newton: main.o newton.o
-	gcc -o newton main.o newton.o -lm
-
-# compile the main.c file into the main.o object file.
-main.o: main.c newton.h
-	gcc -o main.o -c main.c
+newton: newton.o comparison.o main.o  
+	gcc -o newton main.o newton.o comparison.o -lm
 
 # compile the newton.c file into the newton.o object file.
 newton.o: newton.c newton.h
 	gcc -o newton.o -c newton.c
 
+# compile the comparison.c file into the comparison.o object file.
+comparison.o: comparison.c comparison.h
+	gcc -o comparison.o -c comparison.c
+
+# compile the main.c file into the main.o object file.
+main.o: main.c newton.h comparison.h
+	gcc -o main.o -c main.c
+
 # remove the executable and intermediary object files.
 clean:
-	rm -rf newton main.o newton.o
+	rm -rf newton main.o newton.o comparison.o
 

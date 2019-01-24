@@ -1,7 +1,7 @@
 
 #include "stdio.h" // printf
 #include "stdlib.h" // atoi, atof
-
+#include "comparison.h"
 #include "newton.h"
 
 /*
@@ -33,6 +33,9 @@ int main(int argc, char** argv) {
 	printf("Result = %f\n", root);
 
 	// TODO add the comparison code.
+	float difference = comparison(value_to_root, root);
+
+	printf("Comparaison entre les deux valeurs = %f\n", difference);
 
 	// Normal execution, return zero to indicate no error.
  	return 0;
