@@ -16,3 +16,4 @@ float newton(float initial_value, int iterations);
  * return : the root value to return after the final iteration.
  */
 float newton_recursive(float initial_value, float current_value, int iteration);
+//ajout test
