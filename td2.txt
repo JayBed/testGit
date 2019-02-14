@@ -1,0 +1,26 @@
+flds b
+flds d
+fmulp
+
+flds c
+fsubp
+fstps x
+
+flds f
+flds g
+fsubp
+flds x
+fdivp
+flds e
+faddp
+fstps y
+
+flds g
+flds e
+fsubp
+flds f
+fdivrp
+flds y
+fmulp
+flds a
+fsubrp
