@@ -1,0 +1,133 @@
+Electric Version 8.05
+--------------- 0 --------------
+  Fri Feb 15 12:40:52 EST 2019
+Menu Activated: File | Open Library...
+--------------- 1 --------------
+  Fri Feb 15 12:41:08 EST 2019
+Menu Activated: Tool | Simulation (Built-in) | ALS: Simulate Current Cell
+--------------- 2 --------------
+  Fri Feb 15 12:41:17 EST 2019
+Menu Activated: Tool | Simulation (Built-in) | Restore Stimuli from Disk...
+--------------- 3 --------------
+  Fri Feb 15 12:41:22 EST 2019
+ProcessKeyBinding 402 when=1550252481555 modifiers=0 code=a char=a false false
+--------------- 4 --------------
+  Fri Feb 15 12:41:30 EST 2019
+ProcessKeyBinding 401 when=1550252490713 modifiers=80 code=11 char=ffff false false
+--------------- 5 --------------
+  Fri Feb 15 12:41:31 EST 2019
+ProcessKeyBinding 401 when=1550252491247 modifiers=80 code=36 char=36(6) false false
+--------------- 6 --------------
+  Fri Feb 15 12:41:31 EST 2019
+Menu Activated: Window | Pan Right
+--------------- 7 --------------
+  Fri Feb 15 12:41:31 EST 2019
+ProcessKeyBinding 400 when=1550252491247 modifiers=80 code=0 char=36(6) false false
+--------------- 8 --------------
+  Fri Feb 15 12:41:31 EST 2019
+ProcessKeyBinding 402 when=1550252491397 modifiers=80 code=36 char=36(6) false false
+--------------- 9 --------------
+  Fri Feb 15 12:41:36 EST 2019
+ProcessKeyBinding 401 when=1550252496367 modifiers=80 code=36 char=36(6) false false
+--------------- 10 --------------
+  Fri Feb 15 12:41:36 EST 2019
+Menu Activated: Window | Pan Right
+--------------- 11 --------------
+  Fri Feb 15 12:41:36 EST 2019
+ProcessKeyBinding 400 when=1550252496367 modifiers=80 code=0 char=36(6) false false
+--------------- 12 --------------
+  Fri Feb 15 12:41:36 EST 2019
+ProcessKeyBinding 402 when=1550252496529 modifiers=80 code=36 char=36(6) false false
+--------------- 13 --------------
+  Fri Feb 15 12:41:36 EST 2019
+ProcessKeyBinding 402 when=1550252496540 modifiers=0 code=11 char=ffff false false
+--------------- 14 --------------
+  Fri Feb 15 12:41:43 EST 2019
+Menu Activated: Tool | Simulation (Built-in) | Update Simulation Window
+--------------- 15 --------------
+  Fri Feb 15 12:42:13 EST 2019
+ProcessKeyBinding 401 when=1550252533059 modifiers=80 code=11 char=ffff false false
+--------------- 16 --------------
+  Fri Feb 15 12:42:13 EST 2019
+ProcessKeyBinding 401 when=1550252533399 modifiers=80 code=36 char=36(6) false false
+--------------- 17 --------------
+  Fri Feb 15 12:42:13 EST 2019
+Menu Activated: Window | Pan Right
+--------------- 18 --------------
+  Fri Feb 15 12:42:13 EST 2019
+ProcessKeyBinding 400 when=1550252533399 modifiers=80 code=0 char=36(6) false false
+--------------- 19 --------------
+  Fri Feb 15 12:42:13 EST 2019
+ProcessKeyBinding 402 when=1550252533537 modifiers=80 code=36 char=36(6) false false
+--------------- 20 --------------
+  Fri Feb 15 12:42:14 EST 2019
+ProcessKeyBinding 402 when=1550252534387 modifiers=0 code=11 char=ffff false false
+--------------- 21 --------------
+  Fri Feb 15 12:42:20 EST 2019
+Menu Activated: Tool | Simulation (Built-in) | Update Simulation Window
+--------------- 22 --------------
+  Fri Feb 15 12:42:22 EST 2019
+ProcessKeyBinding 401 when=1550252542329 modifiers=80 code=11 char=ffff false false
+--------------- 23 --------------
+  Fri Feb 15 12:42:23 EST 2019
+ProcessKeyBinding 401 when=1550252543441 modifiers=80 code=36 char=36(6) false false
+--------------- 24 --------------
+  Fri Feb 15 12:42:23 EST 2019
+Menu Activated: Window | Pan Right
+--------------- 25 --------------
+  Fri Feb 15 12:42:23 EST 2019
+ProcessKeyBinding 400 when=1550252543441 modifiers=80 code=0 char=36(6) false false
+--------------- 26 --------------
+  Fri Feb 15 12:42:23 EST 2019
+ProcessKeyBinding 402 when=1550252543559 modifiers=80 code=36 char=36(6) false false
+--------------- 27 --------------
+  Fri Feb 15 12:42:24 EST 2019
+ProcessKeyBinding 402 when=1550252544453 modifiers=0 code=11 char=ffff false false
+--------------- 28 --------------
+  Fri Feb 15 12:42:27 EST 2019
+ProcessKeyBinding 401 when=1550252546997 modifiers=0 code=36 char=36(6) false false
+--------------- 29 --------------
+  Fri Feb 15 12:42:27 EST 2019
+Menu Activated: Shortcuts | Wire to M6
+--------------- 30 --------------
+  Fri Feb 15 12:42:27 EST 2019
+ProcessKeyBinding 400 when=1550252546997 modifiers=0 code=0 char=36(6) false false
+--------------- 31 --------------
+  Fri Feb 15 12:42:27 EST 2019
+ProcessKeyBinding 402 when=1550252547097 modifiers=0 code=36 char=36(6) false false
+--------------- 32 --------------
+  Fri Feb 15 12:42:28 EST 2019
+ProcessKeyBinding 401 when=1550252548522 modifiers=80 code=11 char=ffff false false
+--------------- 33 --------------
+  Fri Feb 15 12:42:29 EST 2019
+ProcessKeyBinding 401 when=1550252549354 modifiers=80 code=34 char=34(4) false false
+--------------- 34 --------------
+  Fri Feb 15 12:42:29 EST 2019
+Menu Activated: Window | Pan Left
+--------------- 35 --------------
+  Fri Feb 15 12:42:29 EST 2019
+ProcessKeyBinding 400 when=1550252549354 modifiers=80 code=0 char=34(4) false false
+--------------- 36 --------------
+  Fri Feb 15 12:42:29 EST 2019
+ProcessKeyBinding 402 when=1550252549513 modifiers=80 code=34 char=34(4) false false
+--------------- 37 --------------
+  Fri Feb 15 12:42:30 EST 2019
+ProcessKeyBinding 402 when=1550252549992 modifiers=0 code=11 char=ffff false false
+--------------- 38 --------------
+  Fri Feb 15 12:42:59 EST 2019
+ProcessKeyBinding 401 when=1550252579381 modifiers=80 code=11 char=ffff false false
+--------------- 39 --------------
+  Fri Feb 15 12:43:05 EST 2019
+ProcessKeyBinding 401 when=1550252585023 modifiers=80 code=34 char=34(4) false false
+--------------- 40 --------------
+  Fri Feb 15 12:43:05 EST 2019
+Menu Activated: Window | Pan Left
+--------------- 41 --------------
+  Fri Feb 15 12:43:05 EST 2019
+ProcessKeyBinding 400 when=1550252585023 modifiers=80 code=0 char=34(4) false false
+--------------- 42 --------------
+  Fri Feb 15 12:43:05 EST 2019
+ProcessKeyBinding 402 when=1550252585113 modifiers=80 code=34 char=34(4) false false
+--------------- 43 --------------
+  Fri Feb 15 12:43:13 EST 2019
+ProcessKeyBinding 402 when=1550252593559 modifiers=0 code=11 char=ffff false false
